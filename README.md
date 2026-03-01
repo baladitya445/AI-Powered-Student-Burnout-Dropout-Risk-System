@@ -35,6 +35,7 @@ This project is a **proactive behavioural risk intelligence platform** built to 
 ## Dataset Type
 **Synthetic Dataset**
 
+
 ## Why Synthetic Data?
 Due to the absence of publicly available, ethically shareable student behavioural datasets (containing LMS activity, sentiment indicators, and attendance records), a synthetic dataset was generated to simulate realistic academic engagement patterns.
 
@@ -50,6 +51,10 @@ The dataset was generated programmatically using controlled statistical distribu
 
 ### 📌 Number of Records
 * **500 student records**
+<img width="855" height="514" alt="Screenshot 2026-03-01 232001" src="https://github.com/user-attachments/assets/5a089b67-154e-4a4e-9e94-82a3f6b0c372" />
+<img width="851" height="732" alt="Screenshot 2026-03-01 232011" src="https://github.com/user-attachments/assets/3aa34af8-e520-47dd-ae8e-1e5886808975" />
+<img width="846" height="495" alt="Screenshot 2026-03-01 232033" src="https://github.com/user-attachments/assets/b5637f7b-fb81-4aca-ac5d-e4c05ab58fc0" />
+
 
 ### 📌 Feature Generation Logic
 Each feature was generated using realistic statistical ranges:
