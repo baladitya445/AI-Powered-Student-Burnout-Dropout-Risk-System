@@ -1,4 +1,4 @@
-# 🎓 AI-Powered Student Burnout & Dropout Risk System
+# AI-Powered Student Burnout & Dropout Risk System
 ## 📌 Project Overview
 Student burnout and dropout risk are critical challenges in higher education. Traditional detection mechanisms rely on reactive indicators like failing grades or chronic absenteeism. However, behavioural disengagement signals often emerge much earlier. 
 <img width="1040" height="736" alt="Screenshot 2026-03-01 231422" src="https://github.com/user-attachments/assets/8530066c-a4dc-4db8-a855-ab7fb132c26a" />
