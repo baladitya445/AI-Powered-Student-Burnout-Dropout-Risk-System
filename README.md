@@ -22,7 +22,7 @@ This project is a **proactive behavioural risk intelligence platform** built to 
 <img width="690" height="650" alt="Screenshot 2026-03-01 231353" src="https://github.com/user-attachments/assets/5d3ae772-1452-47cf-bc59-956b89ccf858" />
 <img width="1797" height="553" alt="Screenshot 2026-03-01 231338" src="https://github.com/user-attachments/assets/5c986526-e649-4c94-b9a9-1767d63522b8" />
 
-
+## Technical Information:
 
 ## 🛠️ Tech Stack
 * **Language:** Python
