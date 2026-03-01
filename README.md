@@ -18,7 +18,7 @@ This project is a **proactive behavioural risk intelligence platform** built to 
 <img width="1273" height="571" alt="Screenshot 2026-03-01 231255" src="https://github.com/user-attachments/assets/b29d5fb1-a74e-4df7-bc79-e67e9892b661" />
 <img width="836" height="662" alt="Screenshot 2026-03-01 231323" src="https://github.com/user-attachments/assets/e9d3d26f-5a52-413a-87f0-3c746684a877" />
 
-
+<img width="690" height="650" alt="Screenshot 2026-03-01 231353" src="https://github.com/user-attachments/assets/5d3ae772-1452-47cf-bc59-956b89ccf858" />
 <img width="1797" height="553" alt="Screenshot 2026-03-01 231338" src="https://github.com/user-attachments/assets/5c986526-e649-4c94-b9a9-1767d63522b8" />
 
 
