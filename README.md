@@ -1,14 +1,27 @@
 # 🎓 AI-Powered Student Burnout & Dropout Risk System
 ## 📌 Project Overview
 Student burnout and dropout risk are critical challenges in higher education. Traditional detection mechanisms rely on reactive indicators like failing grades or chronic absenteeism. However, behavioural disengagement signals often emerge much earlier. 
+<img width="1040" height="736" alt="Screenshot 2026-03-01 231422" src="https://github.com/user-attachments/assets/8530066c-a4dc-4db8-a855-ab7fb132c26a" />
+
 
 This project is a **proactive behavioural risk intelligence platform** built to detect early signals of academic burnout. Using a Random Forest classifier deployed via a Streamlit web application, the system analyzes student engagement metrics and categorizes them into Low, Medium, or High risk levels to enable timely, structured interventions.
+
+
 
 ## ✨ Key Features
 * **Early Warning Detection:** Analyzes behavioral signals (LMS logins, assignment delays, sentiment, attendance) before academic failure occurs.
 * **Continuous Risk Scoring:** Quantifies burnout risk on a granular 0–100 scale.
 * **Interactive Dashboard:** Built with Streamlit, providing an intuitive interface for educators to monitor cohort health.
 * **Explainable AI:** Highlights key behavioural drivers (e.g., assignment delay, negative sentiment) using feature importance metrics.
+  
+<img width="1777" height="416" alt="Screenshot 2026-03-01 231245" src="https://github.com/user-attachments/assets/e8d6be44-8ae6-47de-a0b3-8c8952b1f063" />
+
+<img width="1273" height="571" alt="Screenshot 2026-03-01 231255" src="https://github.com/user-attachments/assets/b29d5fb1-a74e-4df7-bc79-e67e9892b661" />
+
+
+<img width="1797" height="553" alt="Screenshot 2026-03-01 231338" src="https://github.com/user-attachments/assets/5c986526-e649-4c94-b9a9-1767d63522b8" />
+
+<img width="836" height="662" alt="Screenshot 2026-03-01 231323" src="https://github.com/user-attachments/assets/e9d3d26f-5a52-413a-87f0-3c746684a877" />
 
 ## 🛠️ Tech Stack
 * **Language:** Python
